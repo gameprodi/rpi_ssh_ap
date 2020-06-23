@@ -6,5 +6,6 @@ This script:
 
 Each time it starts, it creates an AP, changes the MAC address to tp-link.
 ***The script requires an Internet connection to install.***
+***Edit create.sh to install***
+***This script does not configure ssh***
 
-Edit create.sh to install
