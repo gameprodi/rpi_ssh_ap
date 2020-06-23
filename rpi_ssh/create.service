@@ -1,8 +1,0 @@
-[Unit]
-Description=create
-After=multi-user.target
-[Service]
-Type=idle
-ExecStart=/root/create.sh
-[Install]
-WantedBy=multi-user.target
