@@ -5,4 +5,6 @@ This script:
 - Adds AP creation to autostart (systemd)
 
 Each time it starts, it creates an AP, changes the MAC address to tp-link.
-The script requires an Internet connection to install.
+***The script requires an Internet connection to install.***
+
+Edit create.sh to install
